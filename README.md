@@ -16,7 +16,6 @@ Visit the live portfolio:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Performance](#performance)
 - [Browser Support](#browser-support)
 - [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
@@ -241,19 +240,8 @@ Replace profile images:
 - Update image URLs in the `<img>` tags
 - Ensure images are optimized for web (recommended: WebP format)
 
-## ⚡ Performance
 
-### Optimization Techniques
-- **Debounced Scroll Events**: Reduces scroll event frequency for better performance
-- **Lazy Loading**: Images load only when visible in viewport
-- **CSS Animations**: Hardware-accelerated with `transform` and `opacity`
-- **Minification Ready**: Code structure supports minification
-- **CDN Resources**: External libraries loaded from fast CDNs
 
-### Performance Metrics
-- **First Contentful Paint**: < 1.5s
-- **Time to Interactive**: < 3s
-- **Lighthouse Score**: 90+ (Performance)
 
 ## 🌐 Browser Support
 
@@ -312,17 +300,7 @@ This project is open source and available for personal use. Feel free to fork an
 
 ---
 
-## 📊 Project Statistics
 
-- **Total Lines of Code**: ~2,000+
-- **HTML Files**: 1
-- **CSS Files**: 1 (27KB)
-- **JavaScript Files**: 1 (17KB)
-- **Sections**: 10
-- **Interactive Features**: 15+
-- **Animations**: 20+
-
----
 
 <div align="center">
 
