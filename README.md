@@ -1,4 +1,4 @@
-# 🚀 Puja Kumari - Full-Stack Developer Portfolio
+# 🚀<b>My</b> Portfolio
 
 A stunning, modern, and responsive digital portfolio website showcasing my full-stack development skills, projects, experience, and achievements in web development.
 
