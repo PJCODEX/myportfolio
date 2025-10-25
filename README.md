@@ -1,10 +1,10 @@
 # 🚀 Puja Kumari - Full-Stack Developer Portfolio
 
-A stunning, modern, and responsive digital portfolio website showcasing Puja Kumari's full-stack development skills, projects, experience, and achievements in web development.
+A stunning, modern, and responsive digital portfolio website showcasing my full-stack development skills, projects, experience, and achievements in web development.
 
 ## 🌟 Live Demo
 
-Visit the live portfolio: [Coming Soon]
+Visit the live portfolio: 
 
 ## 📋 Table of Contents
 
@@ -23,7 +23,7 @@ Visit the live portfolio: [Coming Soon]
 
 ## 💫 About
 
-This portfolio website is designed to showcase the professional journey of Puja Kumari, an aspiring MERN Stack Developer currently pursuing B.Tech in Computer Science Engineering from Bihar Engineering University. The portfolio highlights:
+This portfolio website is designed to showcase the professional journey of Mine as an aspiring MERN Stack Developer currently pursuing B.Tech in Computer Science Engineering from Bihar Engineering University. The portfolio highlights:
 
 - **4+ Internship Experiences** including Full-Stack Development, Web Development, and AI & Data Analytics
 - **10+ Real-World Projects** featuring MERN stack applications
