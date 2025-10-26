@@ -283,7 +283,7 @@ Replace profile images:
 - **Location**: Araria, Bihar, India
 - **Education**: B.Tech CSE, Bihar Engineering University
 - **LinkedIn**: [linkedin.com/in/puja-kumari01b](https://www.linkedin.com/in/puja-kumari01b)
-- **GitHub**: [github.com/puja-kumari01b](https://github.com/puja-kumari01b)
+- **GitHub**: [github.com/puja-kumari01b](https://github.com/PJCODEX)
 
 ## 📝 License
 
