@@ -37,7 +37,7 @@ Before deploying, ensure you have:
    ```bash
    # Create a new repository on GitHub named 'portfolio'
    # Then connect and push:
-   git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
+   git remote add origin https://github.com/PJCODEX/portfolio.git
    git branch -M main
    git push -u origin main
    ```
@@ -50,7 +50,7 @@ Before deploying, ensure you have:
    - Click "Save"
 
 4. **Access Your Portfolio**
-   - Your site will be available at: `https://YOUR_USERNAME.github.io/portfolio/`
+   - Your site will be available at: `https://github.com/PJCODEX.github.io/portfolio/`
    - Usually takes 2-5 minutes to deploy
 
 **Pros:**
