@@ -99,7 +99,7 @@ Learn everything about the portfolio!
 2. **Social Links** (in `index.html`)
    - Search for "linkedin.com/in/puja-kumari01b"
    - Replace with your LinkedIn
-   - Search for "github.com/puja-kumari01b"
+   - Search for "https://github.com/PJCODEX"
    - Replace with your GitHub
 
 3. **Profile Images** (in `index.html`)
